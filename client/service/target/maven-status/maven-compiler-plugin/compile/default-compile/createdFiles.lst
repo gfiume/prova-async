@@ -1,0 +1,7 @@
+service\DoubleItPortTypeImpl.class
+org\example\contract\doubleit\DoubleItPortType.class
+org\example\contract\doubleit\DoubleItService.class
+org\example\schema\doubleit\DoubleItResponse.class
+org\example\schema\doubleit\DoubleIt.class
+org\example\schema\doubleit\package-info.class
+org\example\schema\doubleit\ObjectFactory.class
